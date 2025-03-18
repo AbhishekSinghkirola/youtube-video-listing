@@ -21,13 +21,13 @@ GET https://api.freeapi.app/api/v1/public/youtube/videos
 For more details, check the API documentation: [FreeAPI Guide](https://freeapi.hashnode.space/api-guide/apireference/getYoutubeVideos)
 
 ## Screenshots
-![ss](youtube-video-listing.netlify.app)
+![ss](https://github.com/user-attachments/assets/fef3d51b-2e43-401b-9bb7-7d5e4a184484)
 
 ## Deployment
 
 You can access the live version of the application here:
 
-[Live Demo](youtube-video-listing.netlify.app)
+[Live Demo](https://youtube-video-listing.netlify.app/)
 
 ## Installation & Setup
 
